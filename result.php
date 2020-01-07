@@ -10,7 +10,7 @@ if(empty($name)){
 	$make = '<h4>You must type a word to search!</h4>';
 }else{
 	$make = '<h4>No match found!</h4>';
-	$sele = "SELECT * FROM users WHERE username LIKE '%$name%' OR email LIKE '%$name%'OR ph1 LIKE '%$name%'OR paydate LIKE '%$name%'OR id LIKE '%$name%'";
+	$sele = "SELECT * FROM users WHERE username LIKE '%$name%' OR email LIKE '%$name%'OR ph1 LIKE '%$name%'OR paydate LIKE '%$name%'OR id LIKE '%$name%'OR statues LIKE '%$name%'OR aadhar LIKE '%$name%'OR acc LIKE '%$name%'";
 	$result = mysqli_query($conn,$sele);
 	
 	if($mak = mysqli_num_rows($result) > 0){
@@ -25,7 +25,13 @@ if(empty($name)){
                   echo '<br> Acc no		         	: '.$row['acc'];
                    echo '<br> ifsc			         	: '.$row['ifsc'];
                    echo '<br> otp			         	: '.$row['otp'];
+                   echo '<br> CIBIL SCORE		         	: '.$row['cibil'];
+                    echo '<br> withdraw	RS	         	: '.$row['withdraw'];   
+                    echo '<br> STATUES		        	: '.$row['statues'];
+                    echo '<br> aadhar no		        	: '.$row['aadhar'];
+                     echo '<br> upi			         	: '.$row['upi'];
                     echo '<br> last admin update			         	: '.$row['admin'];
+                    
         	echo '</h4>';
 	}
 }else{
