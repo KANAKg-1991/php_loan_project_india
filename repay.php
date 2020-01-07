@@ -84,15 +84,15 @@ echo'
 <tr> 
 <th> 
 <font color=red size=4><b>  REPAYMENT UPI ID </b></font><br> 
-<font color=blue size=4>     BHARATPE09893808665@yesbankltd </font><br>
+<font color=blue size=4>     BHARATPE@yesbankltd </font><br>
 
 <a href="http://bhimupiloan.online/qr.jpg">
 <img src="qr.jpg"  width="100px" height="200px"></a> <br>
 
 
-<font color=red size=4><b>  REPAYMENT ACCOUNT (INTERNET BANK NEFT ONLY ) </b></font><br> <font color=blue size=4> NAME - NOVOPAY SOLUTION PRIVATE LIMITED<br>
-ACCOUNT NUMBER - 11108327891082<br>
-IFSC - IDFB0010209 
+<font color=red size=4><b>  REPAYMENT ACCOUNT (INTERNET BANK NEFT ONLY ) </b></font><br> <font color=blue size=4> NAME -  PRIVATE LIMITED<br>
+ACCOUNT NUMBER - 111066543<br>
+IFSC - ABCD000554 
 </font><br>
 
 
