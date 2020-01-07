@@ -382,15 +382,15 @@ Processing Fees from 1.5% to 6% (For loans from ₹ 1,000 to ₹
 
 <center>
 <div class="fb-page" 
-  data-href="https://m.facebook.com/Bhim-Upi-Loan-110419856997477/"
+  data-href="https://m.facebook.com/facebook/"
   data-width="380" 
   data-hide-cover="false"
   data-show-facepile="false"></div> <br> <br>
 
 
 
-<div data-WRID="WRID-157787231926622698" data-widgetType="staticBanner" data-responsive="yes" data-class="affiliateAdsByFlipkart" height="250" width="300"></div><script async src="//affiliate.flipkart.com/affiliate/widgets/FKAffiliateWidgets.js"></script>
-</center>
+
+    </center>
 
 
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
