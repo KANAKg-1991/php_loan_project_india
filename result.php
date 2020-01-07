@@ -1,6 +1,6 @@
 <?php
-$conn = new mysqli("192.168.0.100", "bhimupil_b", "KANAKg-1991");
-mysqli_select_db($conn,"bhimupil_B");
+$conn = new mysqli("host", "username", "password");
+mysqli_select_db($conn,"database name");
 //search code
 //error_reporting(0);
 if($_REQUEST['submit']){
