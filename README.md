@@ -2,6 +2,7 @@
 This is php &amp; bootstrap &amp; js base loan website 
 if any one like my project then call and  WhatsApp+919635650850 email kanakg62@gmail.com
 if want admin panel then Contact me . 
+Demo link www.bhimupiloan.online 
 sql create code
 ===Database bhimupil_B
 
@@ -90,4 +91,4 @@ sql create code
 |penalty|varchar(10)|No|
 |ps|varchar(30)|No|
 
-Demo link www.bhimupiloan.online 
+
